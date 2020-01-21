@@ -1,0 +1,18 @@
+{
+  "user": {
+    "name": "user",
+    "properties": {
+      "user_id": { "type": "int", "default": 0 },
+      "user_name": "string",
+      "date": "date"
+    },
+  },
+  "post": {
+    "name": "post",
+    "properties": {
+      "post_id": { "type": "int", "default": 0 },
+      "description": "string",
+      "date": "date"
+    }
+  }
+}
