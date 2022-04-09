@@ -12,7 +12,7 @@
   "dependencies": {
     "@material-ui/core": "^4.8.3",
     "@react-native-community/masked-view": "^0.1.6",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "native-base": "^2.13.8",
     "react": "16.9.0",
     "react-native": "0.61.5",
